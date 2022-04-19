@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/artifour/github-webhook/internal/config"
+	"github.com/artifour/config"
 	"github.com/artifour/github-webhook/internal/middleware"
 )
 

@@ -11,7 +11,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/artifour/github-webhook/internal/config"
+	"github.com/artifour/config"
 	"github.com/artifour/github-webhook/internal/git"
 )
 
